@@ -1,0 +1,97 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MyAwesomeApp > should match snapshot - container 1`] = `
+<div>
+  <h1
+    data-testid="first-name-title"
+  >
+    Rey
+  </h1>
+  <h3>
+    Quintero
+  </h3>
+  <h4>
+    Videojuegos favoritos
+  </h4>
+  <ul
+    class="mi-clase-favorita"
+  >
+    <li>
+      Elden Ring
+    </li>
+    <li>
+      Dark Souls
+    </li>
+    <li>
+      Dark Souls 2
+    </li>
+    <li>
+      Dark Souls 3
+    </li>
+    <li>
+      Dark Souls 4
+    </li>
+  </ul>
+  <p
+    style="color: green;"
+  >
+    Estoy activo
+  </p>
+  <p
+    style="background-color: rgb(15, 64, 225); border-radius: 5px; padding: 5px; color: white; font-weight: bold;"
+  >
+    Calle 1
+  </p>
+  <p>
+    ABC-123
+  </p>
+</div>
+`;
+
+exports[`MyAwesomeApp > should match snapshot 1`] = `
+<div>
+  <h1
+    data-testid="first-name-title"
+  >
+    Rey
+  </h1>
+  <h3>
+    Quintero
+  </h3>
+  <h4>
+    Videojuegos favoritos
+  </h4>
+  <ul
+    class="mi-clase-favorita"
+  >
+    <li>
+      Elden Ring
+    </li>
+    <li>
+      Dark Souls
+    </li>
+    <li>
+      Dark Souls 2
+    </li>
+    <li>
+      Dark Souls 3
+    </li>
+    <li>
+      Dark Souls 4
+    </li>
+  </ul>
+  <p
+    style="color: green;"
+  >
+    Estoy activo
+  </p>
+  <p
+    style="background-color: rgb(15, 64, 225); border-radius: 5px; padding: 5px; color: white; font-weight: bold;"
+  >
+    Calle 1
+  </p>
+  <p>
+    ABC-123
+  </p>
+</div>
+`;
